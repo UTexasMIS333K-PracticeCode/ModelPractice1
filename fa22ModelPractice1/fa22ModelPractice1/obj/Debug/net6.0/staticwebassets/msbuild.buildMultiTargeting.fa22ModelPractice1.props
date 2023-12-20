@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fa22ModelPractice1.props" />
+</Project>

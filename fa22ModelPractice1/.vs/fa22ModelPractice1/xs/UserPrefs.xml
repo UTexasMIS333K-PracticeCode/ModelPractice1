@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{21784B48-87CA-48D5-9D01-B507808788AA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../usr/local/share/dotnet/sdk/8.0.100/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+    <Files>
+      <File FileName="fa22ModelPractice1/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="fa22ModelPractice1/Models/JobPosting.cs" />
+      <File FileName="fa22ModelPractice1/Models/Product.cs" />
+      <File FileName="fa22ModelPractice1/Views/Home/Example.cshtml" />
+      <File FileName="fa22ModelPractice1/fa22ModelPractice1.csproj" Line="4" Column="26" />
+      <File FileName="../../../../../../usr/local/share/dotnet/sdk/8.0.100/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fa22ModelPractice1" expanded="True">
+            <Node name="fa22ModelPractice1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fa22ModelPractice1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
